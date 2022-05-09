@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-**ttangxing950125/ttangxing950125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<h1 align="center">Hi , I'm Bald Head</h1>
+<h1 align="center">Hi , I'm Zame</h1>
 
 ![](https://raw.githubusercontent.com/bald-head/bald-head/master/pacman.svg)
 
